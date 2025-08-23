@@ -5,7 +5,7 @@ A collection of classic arcade games built with Python and Turtle Graphics.
 You can install the library directly from PyPI:
 
 ```bash
-pip install gamezone-library
+pip install gamezone
 ```
 ### How to Play
 Once installed, you can play the Snake game from your Python script:
