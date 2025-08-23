@@ -1,0 +1,16 @@
+# Python-specific files
+__pycache__/
+*.pyc
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Virtual environment directory
+venv/
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
