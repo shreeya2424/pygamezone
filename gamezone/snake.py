@@ -153,4 +153,4 @@ def run_snake_game():
             continue
         break # This break belongs to the 'for' loop
 
-# run_snake_game()
+run_snake_game()
