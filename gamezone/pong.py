@@ -115,5 +115,5 @@ def run_pong_game():
     screen.bye()
 
 # Run the game
-if __name__ == "__main__":
-    run_pong_game()
+# if __name__ == "__main__":
+#     run_pong_game()

@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gamezone',
-    version='0.0.2',
+    version='0.0.3',
     author='Shreeya Singh',
     author_email='shreeyasingh2404@gmail.com',
     description='A collection of classic arcade games built with Python and Turtle Graphics.',
